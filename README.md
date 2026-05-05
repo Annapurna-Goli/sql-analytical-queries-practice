@@ -12,7 +12,7 @@ This project reflects my transition from writing basic SQL queries to solving an
 
 ## 📁 Project Structure
 
-* `FULL_SQL_PRACTICE.sql` → Complete end-to-end practice (for revision)
+* `FULL_SQL_PRACTICE.sql` → Complete end-to-end practice
 * `01_joins.sql` → All types of joins
 * `02_groupby.sql` → Aggregations with GROUP BY & HAVING
 * `03_subqueries.sql` → Basic and advanced subqueries
