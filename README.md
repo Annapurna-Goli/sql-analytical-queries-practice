@@ -18,6 +18,8 @@ This project reflects my transition from writing basic SQL queries to solving an
 * `03_subqueries.sql` → Basic and advanced subqueries
 * `04_window_functions.sql` → Ranking, LAG, LEAD, analytical queries
 * `05_case_statement.sql` → Case with window function
+* `06_analytical_query.sql` → Real-world analytical SQL problem solving
+* `07_cte.sql` → Common Table Expressions (CTE) with analytical filtering
 ---
 
 ## 🧠 Skills & Concepts Covered
@@ -50,6 +52,22 @@ This project reflects my transition from writing basic SQL queries to solving an
 * CASE statements
 * Above/Below average classification
 
+### 🔹 Analytical SQL Queries
+
+* Teacher-wise student ranking
+* Comparing overall average vs group average
+* Top performers analysis
+* Performance bucket classification
+* Multi-condition analytical filtering
+* Real-world reporting logic using SQL
+
+### 🔹 Common Table Expressions (CTE)
+
+* Query readability improvement
+* Step-by-step analytical query building
+* Reusable temporary result sets
+* Combining CTE with Window Functions & CASE
+
 ---
 
 ## 📌 Real-World Problems Solved
@@ -68,6 +86,11 @@ This project reflects my transition from writing basic SQL queries to solving an
 * Learned how to compare rows using **LAG and LEAD**
 * Built logic for solving analytical SQL problems
 * Improved query structuring and readability
+* Identify teacher-wise toppers above overall average
+* Compare student marks with previous and next students
+* Create performance buckets using ranking logic
+* Find students between overall and teacher averages
+* Build analytical reports using CTEs
 
 ---
 
@@ -82,9 +105,11 @@ This project reflects my transition from writing basic SQL queries to solving an
 
 ## 🎯 Next Steps
 
-* Practice advanced window functions
-* Work with real-world datasets
-* Learn query optimization & performance tuning
+* Practice advanced SQL optimization techniques
+* Solve real-world business case studies
+* Work with larger production-style datasets
+* Build end-to-end SQL analytical projects
+* Learn stored procedures and advanced SQL concepts
 
 ---
 
